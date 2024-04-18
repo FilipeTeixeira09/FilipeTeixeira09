@@ -1,9 +1,9 @@
 <h1>👋 Hi, I'm Filipe. </h1>
 <br>
 <p>😎 Software Developer diving into the Tech World.</p>
-<p>✈️ I'm also a Aeronautical Engineer.</p>
+<p>✈️ I'm also an Aeronautical Engineer.</p>
 <p>💡 Passionate about Tech, Sports, Travelling and Self Improvement.</p>
-<h3>I'm currently diving into <b>TypeScript</b> and Angular</h3>
+<h3>I'm currently diving into TypeScript and Angular</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=FilipeTeixeira09&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <br>
